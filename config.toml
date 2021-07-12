@@ -8,7 +8,6 @@ target = "assets/scss/bootstrap/vendor"
 
 [[module.imports]]
 path = "github.com/twbs/bootstrap"
-ignoreConfig = true
 	[[module.imports.mounts]]
 	source = "scss"
 	target = "assets/scss/bootstrap"
