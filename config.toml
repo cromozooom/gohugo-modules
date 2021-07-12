@@ -13,17 +13,16 @@ source = "scss"
 target = "assets/scss/bootstrap"
 [[module.imports.mounts]]
 source = "js"
-target = "assets/bootstrap"
+target = "assets/js/bootstrap"
 #[[module.imports.mounts]]
 #source = "js/index.esm.js"
 #target = "assets/bootstrap/index.js"
 
-#[[module.imports]]
-#path = "github.com/popperjs/popper-core"
-#disable = false
-#[[module.imports.mounts]]
-#source = "lib"
-#target = "assets/@popperjs/core/lib"
+[[module.imports]]
+path = "github.com/popperjs/popper-core"
+[[module.imports.mounts]]
+source = "src"
+target = "js/assets/popper"
 #
 #[[module.imports.mounts]]
 #source = "index.d.ts"
