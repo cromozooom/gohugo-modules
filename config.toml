@@ -22,7 +22,7 @@ target = "assets/js/bootstrap"
 path = "github.com/popperjs/popper-core"
 [[module.imports.mounts]]
 source = "src"
-target = "js/assets/popper"
+target = "assets/js/popper"
 #
 #[[module.imports.mounts]]
 #source = "index.d.ts"
