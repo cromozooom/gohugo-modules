@@ -1,2 +1,4 @@
-github.com/twbs/bootstrap v4.5.2+incompatible h1:QR6UOtm1+LCDK53CzEp8U0NPIYeRUktVgNhq0gaAGP0=
-github.com/twbs/bootstrap v4.5.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/popperjs/popper-core v2.9.2+incompatible h1:79aegxWU0Efzru0yRC1PViXx/lutzrKZdzGcvge/7SI=
+github.com/popperjs/popper-core v2.9.2+incompatible/go.mod h1:rrRYxxxrr6Y+9S8V9ttEFhsPN5sFPapL1QOzxjoDz0o=
+github.com/twbs/bootstrap v5.0.2+incompatible h1:l13Xy0yyiNKqO78G056lHtLHiW+iiN8P7pf4bh4MPwY=
+github.com/twbs/bootstrap v5.0.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
