@@ -15,7 +15,11 @@ path="github.com/twbs/bootstrap"
 
 	[[module.imports.mounts]]
 	source = "js"
-	target = "assets/js"
+	target = "assets/bootstrap"
+
+	[[module.imports.mounts]]
+	source = "js/index.esm.js"
+	target = "assets/bootstrap/index.js"
 
 [[module.imports]]
 	path = "github.com/popperjs/popper-core"
